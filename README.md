@@ -1,5 +1,8 @@
 # RESTful API - Product Management System
 
+**Student Name:** Moise Benineza  
+**Student ID:** 26511 
+
 ## Overview
 This project is a **RESTful API for a Product Management System** developed using **Spring Boot**. It allows complete CRUD operations (Create, Read, Update, Delete) for managing product inventory in an e-commerce system.  
 
