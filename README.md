@@ -51,13 +51,13 @@ Below are screenshots demonstrating that all CRUD operations are working:
 <img width="1276" height="718" alt="Image" src="https://github.com/user-attachments/assets/99c7de7a-3786-457b-b9a1-2b11043a61b7" />
 
 ### 2️⃣ Read Products (GET)
-![Read Products](Screenshots/2_Read_GET_Products.png)
+<img width="1275" height="719" alt="Image" src="https://github.com/user-attachments/assets/38f5cd1a-57f5-4840-88ed-d1fde799b47e" />
 
 ### 3️⃣ Update Product (PUT)
-![Update Product](Screenshots/3_Update_PUT_a_Product.png)
+<img width="1279" height="720" alt="Image" src="https://github.com/user-attachments/assets/d8d8ea85-0c40-4ff2-9d54-b2b5cd169486" />
 
 ### 4️⃣ Partial Update - Stock Only (PATCH)
-![Partial Update](Screenshots/Partial_Update_PATCH_Update_only_stock_quantity.png)
+<img width="1278" height="720" alt="Image" src="https://github.com/user-attachments/assets/ef0a86ac-7fc3-4dc6-a488-c56e3ceb7a3a" />
 
 ### 5️⃣ Delete Product (DELETE)
-![Delete Product](Screenshots/4_Delete_DELETE_deleting_a_Product.png)
+<img width="1279" height="720" alt="Image" src="https://github.com/user-attachments/assets/c77e2498-3dd5-41a5-9951-e39e6ddc277c" />
